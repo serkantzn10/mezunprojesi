@@ -15,7 +15,7 @@ Takım Flutter 67
 
 ## Product Backlog URL
 
-[Flutter Team 52 Miro Backlog Board](https://miro.com/app/board/uXjVO4kRs2w=/)
+[Flutter Team 67 Miro Backlog Board](https://miro.com/app/board/uXjVM9kohfU=/)
 
 ## Ürün Açıklaması
 
