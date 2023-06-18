@@ -66,9 +66,9 @@ Kod yazılımış ama emülatörde yaşanan sıkıntı nedeniyle grubumuzun geç
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/product1.png)
-  ![Screenshot 2](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/product2.png)
-  ![Screenshot 3](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/product4.gif)
+  ![Screenshot 1](https://github.com/serkantzn10/mezunprojesi/blob/main/1.jpg)
+  ![Screenshot 2](https://github.com/serkantzn10/mezunprojesi/blob/main/2.jpg)
+
 - **Sprint Review**: 
 Alınan kararlar: Tema ve konu bekirlenerek giriş sayfa oluşturulmaya çalışıldı.
 Sprint Review katılımcıları: Serkan Tüzün, Evrim Demirtaş, Nehir Gezici
