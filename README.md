@@ -29,19 +29,19 @@ Bugünlerin kafe-restoran kültüründe belki de en çok ihtiyacımız olan, mü
 ## Ürün Özellikleri
 
 -  Kullanıcılar, Qr kod tarayıcısı ile hem menüden sipariş verebilir hem de ödeyebilir.
--Gruplar halinde gelen kullanıcılar için ödeme tutarı ana bilgisayardan verilecek olan talimatla otomatik olarak bölüştürülür. Böylece her bir kullanıcı ayrı ayrı ödeme yapmakla uğraşmadan ve sırasını beklemek zorunda kalmadan kendi telefonundan ödemeyi rahatlıkla gerçekleştirebilir.
--Çeşitli Ödeme Yöntemleri imkanı ile müşteri tercih ettiği gibi ödeyebilir. Bu müşteriye kolaylık sağlar. Ayrıca kullanıcıların kişisel ve finansal bilgileri güvende tutulur, kullanıcı gizliliğini korumak için gerekli önlemler alınır.
--Kullanıcı, Qr kod tarayıcı, kafe-restoranda hızlı sipariş vermek isteyen, ödeme yapmak isteyen kullanıcılar ve ödeme işleminden sorumlu çalışan için geliştirilmiş kullanıcı rolleri, özellikleri ve ekranları.
+-  Gruplar halinde gelen kullanıcılar için ödeme tutarı ana bilgisayardan verilecek olan talimatla otomatik olarak bölüştürülür. Böylece her bir kullanıcı ayrı ayrı ödeme yapmakla uğraşmadan ve sırasını beklemek zorunda kalmadan kendi telefonundan ödemeyi rahatlıkla gerçekleştirebilir.
+-  Çeşitli Ödeme Yöntemleri imkanı ile müşteri tercih ettiği gibi ödeyebilir. Bu müşteriye kolaylık sağlar. Ayrıca kullanıcıların kişisel ve finansal bilgileri güvende tutulur, kullanıcı gizliliğini korumak için gerekli önlemler alınır.
+-  Kullanıcı, Qr kod tarayıcı, kafe-restoranda hızlı sipariş vermek isteyen, ödeme yapmak isteyen kullanıcılar ve ödeme işleminden sorumlu çalışan için geliştirilmiş kullanıcı rolleri, özellikleri ve ekranları.
 
 
 ## Hedef Kitle
 
 - Kalabalık gelen gruplar
--Alman usulü ödeme yapmayı tercih edenler
--Yanında para veya kart taşımak istemeyenler
--İşletme sahipleri 
--İşletmeler
--O işletmedeki çalışanlar
+- Alman usulü ödeme yapmayı tercih edenler
+- Yanında para veya kart taşımak istemeyenler
+- İşletme sahipleri 
+- İşletmeler
+- O işletmedeki çalışanlar
 
 
 ## Juriye Not
