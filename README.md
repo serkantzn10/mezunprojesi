@@ -70,12 +70,13 @@ Kod yazılımış ama emülatörde yaşanan sıkıntı nedeniyle grubumuzun geç
   ![Screenshot 2](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/product2.png)
   ![Screenshot 3](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/product4.gif)
 - **Sprint Review**: 
-Alınan kararlar: Kullanıcı temel sayfaları oluşturulmuş, bazıları kodlanmış, arduino kurulumu ve firebase'e bağlanması sağlanmış, uygulama için veritabanı olarak firebase servisleri aktif edilmiş ve eksiklikler değerlendirilmiştir. Sprint Review katılımcıları: Mustafa Aksoy
+Alınan kararlar: Tema ve konu bekirlenerek giriş sayfa oluşturulmaya çalışıldı.
+Sprint Review katılımcıları: Serkan Tüzün, Evrim Demirtaş, Nehir Gezici
 
 - **Sprint Retrospective:**
   - Roller ile ilgili düzenleme yapılmış, scrum master değişmiştir.
   - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
-  - Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
+  
  
 
 
