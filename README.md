@@ -19,28 +19,30 @@ Takım Flutter 67
 
 ## Ürün Açıklaması
 
-Arkadaşlarımızla bir kafeye gitmiş ve sıra hesaba geldiğinde özellikle de kalabalık bir grupsanız ödeme işleminin ne kadar uzun sürdüğünü biliyorsunuzdur veya tek başımıza zaman geçirmek istemiş, bir kahve yudumlamaya gitmiş ama bunun için bütün cüzdanınızı yanınıza almanızın fazlalık olduğunu düşünmüşsünüzdür. Veya birkaçımız bir işletme sahibi olmuş ve nakit ödemelerin işletmelerin finansal kayıtlarını tutma ve raporlama sürecini karmaşıklaştırabildiğini yakından deneyimlemişizdir. Bütün bunları düşündüğümde çözüm olarak aklımıza gelen bir app var o da “App”! 
+Arkadaşlarımızla bir kafeye gitmiş ve sıra hesaba geldiğinde özellikle de kalabalık bir grupsanız ödeme işleminin ne kadar uzun sürdüğünü biliyorsunuzdur veya tek başımıza zaman geçirmek istemiş, bir kahve yudumlamaya gitmiş ama bunun için bütün cüzdanınızı yanınıza almanızın fazlalık olduğunu düşünmüşsünüzdür. Veya birkaçımız bir işletme sahibi olmuş ve nakit ödemelerin işletmelerin finansal kayıtlarını tutma ve raporlama sürecini karmaşıklaştırabildiğini yakından deneyimlemişizdir. Bütün bunları düşündüğümüzde çözüm olarak aklımıza gelen bir app var o da “App”! 
 Bugünlerin kafe-restoran kültüründe belki de en çok ihtiyacımız olan, müşterilerin QR kod teknolojisini kullanarak hızlı ve kolay ödeme imkanı sağlayan yenilikçi bir uygulama. Müşterilerin kendi telefonlarında kayıtlı olan çeşitli ödeme yöntemleri ile hem müşteriye kolaylık hem de işletmeye verimlilik sağlar. Kalabalık gelen gruplar için hesabı otomatik bölüştürebilir, ayrı ayrı ödeme yapmakla uğraşmadan hızlıca ve rahatça ödeme işlemlerini tamamlayabilirler. Böylelikle ödeme noktalarında kaybedilen zamanların önüne geçilmiş olur. 
 
 - **Uygulama birincil fonksiyonu**: Gelen müşteriler, sipariş vermeyi beklemek zorunda olmadan masalardaki QR kodu okutarak dilediklerini, uygulama üzerinden seçtikten sonra garson siparişleri getirecek.
-- 
+
 - **Uygulama ikincil fonksiyonu**: Ödeme işlemin gerçekleştirebilmeleri için garsondan hesap istendiğinde, garson bu hesabı, sorumlu olduğu ana bilgisayardan müşterilerin telefonuna ödeme iznini vererek gönderecek. Böylece müşteriler kendi yediklerini seçip ödeyebilecekler. 
 
 ## Ürün Özellikleri
 
-- Doluluk oranı %75'in üzerinde olan apartman akıllı atık kutularının kutu doluluk oranının geri dönüşüm atık toplayıcılarına bildirilmesi.
-- Doluluk oranı %75'in üzerinde olan apartman akıllı atık kutularındaki geri dönüşüm maddelerinin satın alınmasına ilişkin, toplayıcı firmalar tarafından satın alma teklifini apartman yönetimlerine sunabilmesi ve yönetici tarafından teklifin kabul edilmesi.
-- Apartmandan bağımsız olarak biriktirilmiş bireysel geri dönüşüm maddelerinin satın alımı için toplayıcı firmalardan teklif alma ve toplayıcı çağırma hizmeti.
-- Kullanıcı, apartman yönetimi, atık toplayıcı firma ve uygulama şirketi için geliştirilmiş kullanıcı rolleri, özellikleri ve ekranları.
+-  Kullanıcılar, Qr kod tarayıcısı ile hem menüden sipariş verebilir hem de ödeyebilir.
+-Gruplar halinde gelen kullanıcılar için ödeme tutarı ana bilgisayardan verilecek olan talimatla otomatik olarak bölüştürülür. Böylece her bir kullanıcı ayrı ayrı ödeme yapmakla uğraşmadan ve sırasını beklemek zorunda kalmadan kendi telefonundan ödemeyi rahatlıkla gerçekleştirebilir.
+-Çeşitli Ödeme Yöntemleri imkanı ile müşteri tercih ettiği gibi ödeyebilir. Bu müşteriye kolaylık sağlar. Ayrıca kullanıcıların kişisel ve finansal bilgileri güvende tutulur, kullanıcı gizliliğini korumak için gerekli önlemler alınır.
+-Kullanıcı, Qr kod tarayıcı, kafe-restoranda hızlı sipariş vermek isteyen, ödeme yapmak isteyen kullanıcılar ve ödeme işleminden sorumlu çalışan için geliştirilmiş kullanıcı rolleri, özellikleri ve ekranları.
+
 
 ## Hedef Kitle
 
-- Çevreci gönüllüler
-- Apartman yöneticileri
-- Apartman sakinleri
-- Bina yönetim şirketleri 
-- Geri dönüşüm merkezleri
-- Geri dönüşüm atık toplayıcıları
+- Kalabalık gelen gruplar
+-Alman usulü ödeme yapmayı tercih edenler
+-Yanında para veya kart taşımak istemeyenler
+-İşletme sahipleri 
+-İşletmeler
+-O işletmedeki çalışanlar
+
 
 ## Juriye Not
 
