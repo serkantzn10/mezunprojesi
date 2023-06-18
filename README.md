@@ -62,7 +62,7 @@ Kod yazılımış ama emülatörde yaşanan sıkıntı nedeniyle grubumuzun geç
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir.
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/Bootcamp2022Example/main/ProjectManagement/Sprint1Documents/backlog1.png) 
+![Backlog 1](https://github.com/serkantzn10/mezunprojesi/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202023-06-18%20234858.png) 
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
