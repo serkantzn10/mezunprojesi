@@ -46,7 +46,7 @@ Bugünlerin kafe-restoran kültüründe belki de en çok ihtiyacımız olan, mü
 
 ## Juriye Not
 
-İlan formu veritabanına başarılı şekilde veri göndermesine rağmen, tecrübe yetersizliği ve zaman eksikliği sebebiyle ilanlar listesi ve teklif formları veritabanıyla ilişkilendirilememiştir.
+Kod yazılımış ama emülatörde yaşanan sıkıntı nedeniyle grubumuzun geç toplanmasının da verdiği dezavantajla çözümü sprint 1 teslim tarihine yetiştirilememiştir.
 
 
 ---
