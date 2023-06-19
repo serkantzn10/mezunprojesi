@@ -64,7 +64,7 @@ Kod yazılımış ama emülatörde yaşanan sıkıntı nedeniyle grubumuzun geç
 https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fserkantzn10%2Fmezunprojesi%2Ff0bea4a9fb7ba7f64267c90831fe4afd9534bafc%2Fdaily_scum.docx&wdOrigin=BROWSELINK
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://github.com/serkantzn10/mezunprojesi/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202023-06-18%20234858.png) 
+![Backlog 1](https://github.com/serkantzn10/mezunprojesi/blob/main/flutter_team_67_board.jpg) 
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
