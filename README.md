@@ -7,7 +7,7 @@ Takım Flutter 67
 ## Takım Elemanları
 - Serkan Tüzün: Scrum Master/ Product Owner / Developer
 - Evrim Demirtaş: Developer
-- Nehir Gezici: Scrum Master / Developer
+- Nehir Gezici: Developer
 
 ## Ürün İsmi
 
