@@ -11,7 +11,7 @@ Takım Flutter 67
 
 ## Ürün İsmi
 
---Go Deutsch App--
+--Go Dutch App--
 
 ## Product Backlog URL
 
@@ -19,7 +19,7 @@ Takım Flutter 67
 
 ## Ürün Açıklaması
 
-Arkadaşlarımızla bir kafeye gitmiş ve sıra hesaba geldiğinde özellikle de kalabalık bir grupsanız ödeme işleminin ne kadar uzun sürdüğünü biliyorsunuzdur veya tek başımıza zaman geçirmek istemiş, bir kahve yudumlamaya gitmiş ama bunun için bütün cüzdanınızı yanınıza almanızın fazlalık olduğunu düşünmüşsünüzdür. Veya birkaçımız bir işletme sahibi olmuş ve nakit ödemelerin işletmelerin finansal kayıtlarını tutma ve raporlama sürecini karmaşıklaştırabildiğini yakından deneyimlemişizdir. Bütün bunları düşündüğümüzde çözüm olarak aklımıza gelen bir app var o da “ Go Deutsch App”! 
+Arkadaşlarımızla bir kafeye gitmiş ve sıra hesaba geldiğinde özellikle de kalabalık bir grupsanız ödeme işleminin ne kadar uzun sürdüğünü biliyorsunuzdur veya tek başımıza zaman geçirmek istemiş, bir kahve yudumlamaya gitmiş ama bunun için bütün cüzdanınızı yanınıza almanızın fazlalık olduğunu düşünmüşsünüzdür. Veya birkaçımız bir işletme sahibi olmuş ve nakit ödemelerin işletmelerin finansal kayıtlarını tutma ve raporlama sürecini karmaşıklaştırabildiğini yakından deneyimlemişizdir. Bütün bunları düşündüğümüzde çözüm olarak aklımıza gelen bir app var o da “ Go Dutch App”! 
 Bugünlerin kafe-restoran kültüründe belki de en çok ihtiyacımız olan, müşterilerin QR kod teknolojisini kullanarak hızlı ve kolay ödeme imkanı sağlayan yenilikçi bir uygulama. Müşterilerin kendi telefonlarında kayıtlı olan çeşitli ödeme yöntemleri ile hem müşteriye kolaylık hem de işletmeye verimlilik sağlar. Kalabalık gelen gruplar için hesabı otomatik bölüştürebilir, ayrı ayrı ödeme yapmakla uğraşmadan hızlıca ve rahatça ödeme işlemlerini tamamlayabilirler. Böylelikle ödeme noktalarında kaybedilen zamanların önüne geçilmiş olur. 
 
 - **Uygulama birincil fonksiyonu**: Gelen müşteriler, sipariş vermeyi beklemek zorunda olmadan masalardaki QR kodu okutarak dilediklerini, uygulama üzerinden seçtikten sonra garson siparişleri getirecek.
@@ -68,7 +68,7 @@ https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubuserco
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  -
+![Secreenshot 1](https://github.com/serkantzn10/mezunprojesi/blob/main/login.jpg)
 
 - **Sprint Review**: 
 Alınan kararlar: Tema ve konu belirlenerek giriş sayfa oluşturulmaya çalışıldı.
