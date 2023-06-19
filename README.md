@@ -52,6 +52,7 @@ Kod yazılımış ama emülatörde yaşanan sıkıntı nedeniyle grubumuzun geç
 ---
 
 # Sprint 1
+- **Sprint Notları:** User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
@@ -59,7 +60,8 @@ Kod yazılımış ama emülatörde yaşanan sıkıntı nedeniyle grubumuzun geç
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir.
+- **Daily Scrum**: İlk toplantımız zoom üzerinden gerçekleşmiş ve geliştirilecek ürüne karar verilmiş, süreç üzerine fikir alış verişi yapılmıştır. Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir.
+https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1](https://github.com/serkantzn10/mezunprojesi/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202023-06-18%20234858.png) 
@@ -70,7 +72,7 @@ Kod yazılımış ama emülatörde yaşanan sıkıntı nedeniyle grubumuzun geç
   ![Screenshot 2](https://github.com/serkantzn10/mezunprojesi/blob/main/2.jpg)
 
 - **Sprint Review**: 
-Alınan kararlar: Tema ve konu bekirlenerek giriş sayfa oluşturulmaya çalışıldı.
+Alınan kararlar: Tema ve konu belirlenerek giriş sayfa oluşturulmaya çalışıldı.
 Sprint Review katılımcıları: Serkan Tüzün, Evrim Demirtaş, Nehir Gezici
 
 - **Sprint Retrospective:**
