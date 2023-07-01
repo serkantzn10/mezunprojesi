@@ -68,7 +68,7 @@ https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubuserco
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-![Secreenshot 1](https://github.com/serkantzn10/mezunprojesi/blob/main/login.jpg)
+![Secreenshot 1](https://github.com/serkantzn10/mezunprojesi/blob/main/log1in.jpg)
 
 - **Sprint Review**: 
 Alınan kararlar: Tema ve konu belirlenerek giriş sayfa oluşturulmaya çalışıldı.
