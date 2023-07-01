@@ -94,10 +94,13 @@ Sprint Review katılımcıları: Serkan Tüzün, Evrim Demirtaş, Nehir Gezici
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-![Secreenshot 1](https://github.com/serkantzn10/mezunprojesi/blob/main/login.jpg)
+![Secreenshot 2](https://github.com/serkantzn10/mezunprojesi/blob/main/login.jpg)
+![Secreenshot 3](https://github.com/serkantzn10/mezunprojesi/blob/main/qr.jpg)
+![Secreenshot 4](https://github.com/serkantzn10/mezunprojesi/blob/main/catagories.jpg)
+![Secreenshot 5](https://github.com/serkantzn10/mezunprojesi/blob/main/menu.jpg)
 
 - **Sprint Review**: 
-Alınan kararlar: Tema ve konu belirlenerek giriş sayfa oluşturulmaya çalışıldı.
+Alınan kararlar: Tema ve konu değiştirilerek giriş sayfa oluşturulmaya çalışıldı.
 Sprint Review katılımcıları: Serkan Tüzün, Evrim Demirtaş, Nehir Gezici
 
 - **Sprint Retrospective:**
