@@ -77,6 +77,32 @@ Sprint Review katılımcıları: Serkan Tüzün, Evrim Demirtaş, Nehir Gezici
 - **Sprint Retrospective:**
   - Roller ile ilgili düzenleme yapılmış, scrum master değişmiştir.
   - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
+
+
+# Sprint 2
+- **Sprint Notları:** User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'e de 100 puan verilmesi gerektiğine karar verildi.
+
+- **Sprint board update**: Sprint board screenshotları: 
+![Backlog 1](https://github.com/serkantzn10/mezunprojesi/blob/main/flutter_team_67_board.jpg) 
+
+
+- **Ürün Durumu**: Ekran görüntüleri:
+![Secreenshot 1](https://github.com/serkantzn10/mezunprojesi/blob/main/login.jpg)
+
+- **Sprint Review**: 
+Alınan kararlar: Tema ve konu belirlenerek giriş sayfa oluşturulmaya çalışıldı.
+Sprint Review katılımcıları: Serkan Tüzün, Evrim Demirtaş, Nehir Gezici
+
+- **Sprint Retrospective:**
+  - Roller ile ilgili düzenleme yapılmış, scrum master değişmiştir.
+  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
+
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir.
   
  
 
