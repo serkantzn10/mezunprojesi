@@ -100,7 +100,7 @@ Sprint Review katılımcıları: Serkan Tüzün, Evrim Demirtaş, Nehir Gezici
 ![Secreenshot 5](https://github.com/serkantzn10/mezunprojesi/blob/main/menu.jpg)
 
 - **Sprint Review**: 
-Alınan kararlar: Tema ve konu değiştirilerek giriş sayfa oluşturulmaya çalışıldı.
+Alınan kararlar: Qr kod scanner ve emnü sayfası oluşturulmuş, sipariş sayfasına başlanmıştır.
 Sprint Review katılımcıları: Serkan Tüzün, Evrim Demirtaş, Nehir Gezici
 
 - **Sprint Retrospective:**
