@@ -107,6 +107,33 @@ Sprint Review katılımcıları: Serkan Tüzün, Evrim Demirtaş, Nehir Gezici
   - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
   - Tema ve renkler tekrar düzenlenmiştir.
 
+# Sprint 3
+- **Sprint Notları:** User Story'ler done'ın içine yazılmıştır. Product item'lara tıklandığında hikayelerin detayları okunabilir.
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 140 Puan
+
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde üçüncü sprint'e de 140 puan verilmesi gerektiğine karar verildi.
+
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. https://github.com/serkantzn10/mezunprojesi/blob/main/daily_scrum2.pdf
+  
+- **Sprint board update**: Sprint board screenshotları: 
+![Backlog 1](https://github.com/serkantzn10/mezunprojesi/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202023-07-01%20213733.png) 
+
+
+- **Ürün Durumu**: Ekran görüntüleri:
+![Secreenshot 2](https://github.com/serkantzn10/mezunprojesi/blob/main/login.jpg)
+![Secreenshot 3](https://github.com/serkantzn10/mezunprojesi/blob/main/qr.jpg)
+![Secreenshot 4](https://github.com/serkantzn10/mezunprojesi/blob/main/catagories.jpg)
+![Secreenshot 5](https://github.com/serkantzn10/mezunprojesi/blob/main/menu.jpg)
+
+- **Sprint Review**: 
+Alınan kararlar: Welcome sayfası eklenmiş ve düzenlenmiş, order list sayfası tamamlanmış, payment ve order placed sayfalarına da başlanıp bitirilmiştir.
+Sprint Review katılımcıları: Serkan Tüzün, Evrim Demirtaş, Nehir Gezici
+
+- **Sprint Retrospective:**
+  - Bütün adımların üzerinden tekrar geçilerek iyileştirme ve kontroller yapılmıştır.
+
 
   
  
