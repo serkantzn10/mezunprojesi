@@ -90,7 +90,7 @@ Sprint Review katılımcıları: Serkan Tüzün, Evrim Demirtaş, Nehir Gezici
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. https://github.com/serkantzn10/mezunprojesi/blob/main/daily_scrum2.pdf
   
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://github.com/serkantzn10/mezunprojesi/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202023-07-01%20213733.png) 
+![Backlog 2](https://github.com/serkantzn10/mezunprojesi/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202023-07-01%20213733.png) 
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
@@ -118,14 +118,18 @@ Sprint Review katılımcıları: Serkan Tüzün, Evrim Demirtaş, Nehir Gezici
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. https://github.com/serkantzn10/mezunprojesi/blob/main/daily_scrum2.pdf
   
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://github.com/serkantzn10/mezunprojesi/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202023-07-01%20213733.png) 
+![Backlog 3](https://github.com/serkantzn10/mezunprojesi/blob/main/flutter_team_67_board%20(1).jpg) 
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-![Secreenshot 2](https://github.com/serkantzn10/mezunprojesi/blob/main/login.jpg)
-![Secreenshot 3](https://github.com/serkantzn10/mezunprojesi/blob/main/qr.jpg)
-![Secreenshot 4](https://github.com/serkantzn10/mezunprojesi/blob/main/catagories.jpg)
-![Secreenshot 5](https://github.com/serkantzn10/mezunprojesi/blob/main/menu.jpg)
+![Secreenshot 6](https://github.com/serkantzn10/mezunprojesi/blob/main/qr%20code.jpg)
+![Secreenshot 7](https://github.com/serkantzn10/mezunprojesi/blob/main/scanner.jpg)
+![Secreenshot 8](https://github.com/serkantzn10/mezunprojesi/blob/main/info_page.jpg)
+![Secreenshot 9](https://github.com/serkantzn10/mezunprojesi/blob/main/wellcome_page.jpg)
+![Secreenshot 10](https://github.com/serkantzn10/mezunprojesi/blob/main/menu.jpg)
+![Secreenshot 11](https://github.com/serkantzn10/mezunprojesi/blob/main/order_list.jpg)
+![Secreenshot 12](https://github.com/serkantzn10/mezunprojesi/blob/main/paymeng.jpg)
+![Secreenshot 13](https://github.com/serkantzn10/mezunprojesi/blob/main/order_placed.jpg)
 
 - **Sprint Review**: 
 Alınan kararlar: Welcome sayfası eklenmiş ve düzenlenmiş, order list sayfası tamamlanmış, payment ve order placed sayfalarına da başlanıp bitirilmiştir.
