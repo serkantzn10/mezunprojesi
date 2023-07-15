@@ -112,10 +112,9 @@ Sprint Review katılımcıları: Serkan Tüzün, Evrim Demirtaş, Nehir Gezici
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 140 Puan
 
-
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde üçüncü sprint'e de 140 puan verilmesi gerektiğine karar verildi.
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. https://github.com/serkantzn10/mezunprojesi/blob/main/daily_scrum2.pdf
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. https://github.com/serkantzn10/mezunprojesi/blob/main/daily_scrum3.docx
   
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 3](https://github.com/serkantzn10/mezunprojesi/blob/main/flutter_team_67_board%20(1).jpg) 
